@@ -19,6 +19,7 @@
 * FTB Library
 * FTB Quests
 * FTB Teams
+* GraveStones
 * Item Filters
 * Just Enough Items (JEI)
 * KubeJS
@@ -32,5 +33,6 @@
 * Shutup Experimental Settings!
 * Simple Storage Network
 * Storage Drawers
+* The One Probe
 * Tinkers Construct
 * Xaero's Minimap
